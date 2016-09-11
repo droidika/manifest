@@ -25,9 +25,9 @@
            fetch="https://github.com/ValidusOs-M"
            revision="mm6.0" />
 
-  <default revision="refs/tags/android-6.0.1_r62"
+  <default revision="refs/tags/android-6.0.1_r68"
            remote="aosp"
-           sync-j="4" />
+           sync-j="8" />
 
   <!-- TESLA -->
   <project path="build" name="android_build" remote="tm" >
